@@ -23,7 +23,7 @@ const data = {
         {
             email_address : Email,
             status : "subscribed",
-            marge_fields : {
+            merge_fields : {
                 FNAME : firstName,
                 LNAME : lastName,
             }
