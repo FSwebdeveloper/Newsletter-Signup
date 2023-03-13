@@ -56,7 +56,7 @@ request.end();
 
 });
 
-app.post("/failure.html",function(req,res){
+app.post("/failure",function(req,res){
 res.redirect("/");
 })
 
